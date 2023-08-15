@@ -15,7 +15,7 @@ html{
     height: 15px;
     width: fit-content;
     /* background-color: #fff; */
-    background-image: linear-gradient(180deg, orange, white, green);
+    background-image: linear-gradient(90deg, #f9933f, #fff , #158f46);
     position: absolute;
 
     padding: 2px;
@@ -60,7 +60,7 @@ main div {
 
 
 .orange {
-    background-color: orange;
+    background-color: #f9933f;
 }
 
 
@@ -73,13 +73,13 @@ main div {
 
 
 .green {
-    background-color: green;
+    background-color: #158f46;
 }
 
 
 #circle {
     height: 100%;
-    width: 33.3dvh;
+    width: 33dvh;
     /* background-image: linear-gradient(180deg ,orangered , white , green ); */
 
     border: 2px solid darkblue;
