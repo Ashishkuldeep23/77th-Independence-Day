@@ -23,3 +23,7 @@ document.querySelector("main").addEventListener("mousemove" , (dets)=>{
 } )
 
 
+// // // Play music by js ------->
+const audio = new Audio("play.mp3")
+audio.play()
+
