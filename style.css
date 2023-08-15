@@ -37,6 +37,9 @@ html{
 
 main {
 
+    height: 100dvh !important;
+    width: 100dvw !important;
+
     overflow: hidden;
 
     display: flex;
